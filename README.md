@@ -15,7 +15,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 As seguintes bibliotecas foram usadas na elaboração do projeto:
 
 - [LocalDate](https://docs.oracle.com/javase/8/docs/api/java/time/LocalDate.html)
-- [ArrayList]([https://jdk.java.net/19/](https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html))
+- [ArrayList](https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html)
 
 ### ✅ Requirements
 
