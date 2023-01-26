@@ -15,7 +15,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 As seguintes bibliotecas foram usadas na elaboração do projeto:
 
 - [LocalDate](https://docs.oracle.com/javase/8/docs/api/java/time/LocalDate.html)
-- [ArrayList]([https://jdk.java.net/19/](https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html))
+- [ArrayList](https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html)
 
 ### ✅ Requirements
 
@@ -27,7 +27,11 @@ Além disto é bom ter um editor de texto para manipular o código, te indico um
 
 ### Getting Started
 
-- Clone esse repositorio: "git clone https://github.com/julianoferrrone12/Controle_de_Funcionarios_POO.git" <br />
+- Clone esse repositorio: 
+```shell script
+git clone https://github.com/julianoferrrone12/Controle_de_Funcionarios_POO.git
+``` 
+<br />
 - Mude para o diretorio selecionado: "cd <pasta em quem clonou o repositorio>"
 - Abra a aplicação no IntelliJ IDEA
 
