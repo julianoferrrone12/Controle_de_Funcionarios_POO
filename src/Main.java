@@ -49,7 +49,7 @@ public class Main {
 
 //-----------------------------------------Input de Data para consulta--------------------------------------------------
 
-        LocalDate data = LocalDate.of(2022, 3, 1); //Insira aqui a data para a consulta
+        LocalDate data = LocalDate.of(2022, 1, 1); //Insira aqui a data para a consulta
 
 //----------------------------------------Para a tela de exibicao-------------------------------------------------------
 
